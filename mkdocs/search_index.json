@@ -1,0 +1,179 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Emplify User Guide\n\n\nThe following is a guide to Emplify.\n\n\nWhat is Emplify\n\n\nEmplify is an application that helps build better workplaces.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#emplify-user-guide", 
+            "text": "The following is a guide to Emplify.", 
+            "title": "Emplify User Guide"
+        }, 
+        {
+            "location": "/#what-is-emplify", 
+            "text": "Emplify is an application that helps build better workplaces.", 
+            "title": "What is Emplify"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About page", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about-page", 
+            "text": "", 
+            "title": "About page"
+        }, 
+        {
+            "location": "/news/", 
+            "text": "News\n\n\n\n\nFor details on how to post a news article visit the \nPosting News\n page.\n\n\n\n\nNews is where you can find out the latest from your employer. Article are displayed in reverse chronological order (most recent first).\n\n\nThe news landing page show a summary of the most recent articles, to read more just select any article.\n\n\nLikes\n\n\nClicking like is a way to give positive feedback on a given article. you can see what other people are liking by visiting the \nCommunity\n section of the app.\n\n\nComments\n\n\nYou can comment on any article and you comment will be seen by all users beneath the corresponding article and on the  \nCommunity page", 
+            "title": "News"
+        }, 
+        {
+            "location": "/news/#news", 
+            "text": "For details on how to post a news article visit the  Posting News  page.   News is where you can find out the latest from your employer. Article are displayed in reverse chronological order (most recent first).  The news landing page show a summary of the most recent articles, to read more just select any article.", 
+            "title": "News"
+        }, 
+        {
+            "location": "/news/#likes", 
+            "text": "Clicking like is a way to give positive feedback on a given article. you can see what other people are liking by visiting the  Community  section of the app.", 
+            "title": "Likes"
+        }, 
+        {
+            "location": "/news/#comments", 
+            "text": "You can comment on any article and you comment will be seen by all users beneath the corresponding article and on the   Community page", 
+            "title": "Comments"
+        }, 
+        {
+            "location": "/community/", 
+            "text": "Community\n\n\nAs well as liking and commenting on news stories, you can post own news and pictures.\n\n\nPosting to the community\n\n\nTo post something just click the plus in the top right of the page. You can add a picture to your post by clicking the camera icon (or clicking 'Choose file' if you're using the web app). Your posts can be any ength, but we'd recommend keeping your post to no longer than 50 words.\n\n\nDeleting your post\n\n\nIf you make a mistake don't worry. You can delete you own posts by swiping left on your post (or clicking delete on the web app)\n\n\nFeedback\n\n\nEvery so often", 
+            "title": "Community"
+        }, 
+        {
+            "location": "/community/#community", 
+            "text": "As well as liking and commenting on news stories, you can post own news and pictures.", 
+            "title": "Community"
+        }, 
+        {
+            "location": "/community/#posting-to-the-community", 
+            "text": "To post something just click the plus in the top right of the page. You can add a picture to your post by clicking the camera icon (or clicking 'Choose file' if you're using the web app). Your posts can be any ength, but we'd recommend keeping your post to no longer than 50 words.", 
+            "title": "Posting to the community"
+        }, 
+        {
+            "location": "/community/#deleting-your-post", 
+            "text": "If you make a mistake don't worry. You can delete you own posts by swiping left on your post (or clicking delete on the web app)", 
+            "title": "Deleting your post"
+        }, 
+        {
+            "location": "/community/#feedback", 
+            "text": "Every so often", 
+            "title": "Feedback"
+        }, 
+        {
+            "location": "/feedback/", 
+            "text": "Feedback\n\n\nEmplify allows users to provide instant feedback.\n\n\nIf you haven't Responded to the latest question you can cast your vote by selecting any of the options available. Once you've voted you will see the latest results. You can check back at any time to get an update until the next question is posted.", 
+            "title": "Feedback"
+        }, 
+        {
+            "location": "/feedback/#feedback", 
+            "text": "Emplify allows users to provide instant feedback.  If you haven't Responded to the latest question you can cast your vote by selecting any of the options available. Once you've voted you will see the latest results. You can check back at any time to get an update until the next question is posted.", 
+            "title": "Feedback"
+        }, 
+        {
+            "location": "/groups/", 
+            "text": "Groups\n\n\nGroups are perhaps the most exciting feature of Emplify. Groups allow you to create micro-communities around departments, geography, events or some other common factor. It's kind of like WhatsApp, but for work.\n\n\nGroups need to be created by Administrators, and you can only see Groups, once an administrator has added you, but once you're in you can share content that is only accessible by people in that group.", 
+            "title": "Groups"
+        }, 
+        {
+            "location": "/groups/#groups", 
+            "text": "Groups are perhaps the most exciting feature of Emplify. Groups allow you to create micro-communities around departments, geography, events or some other common factor. It's kind of like WhatsApp, but for work.  Groups need to be created by Administrators, and you can only see Groups, once an administrator has added you, but once you're in you can share content that is only accessible by people in that group.", 
+            "title": "Groups"
+        }, 
+        {
+            "location": "/settings/", 
+            "text": "Settings\n\n\nVia the settings page you can update your password and update your profile picture.\n\n\nUpdating your profile picture\n\n\n\n\nClick 'Update your porfile image'\n\n\nIf you're on a phone, select Camera to take a new photo or Photos to choose an existing image\n\n\nIf you're on a PC, select an image from your local machine", 
+            "title": "Settings"
+        }, 
+        {
+            "location": "/settings/#settings", 
+            "text": "Via the settings page you can update your password and update your profile picture.", 
+            "title": "Settings"
+        }, 
+        {
+            "location": "/settings/#updating-your-profile-picture", 
+            "text": "Click 'Update your porfile image'  If you're on a phone, select Camera to take a new photo or Photos to choose an existing image  If you're on a PC, select an image from your local machine", 
+            "title": "Updating your profile picture"
+        }, 
+        {
+            "location": "/troubleshooting/", 
+            "text": "Troubleshooting\n\n\nHelp I can't register\n\n\nIf you're having trouble registering, please send an email to help@emplifyapp.com with your details and we'll try and get everything set up on your behalf.\n\n\nHelp I can't login\n\n\nIf you're having trouble logging in, try resetting your password. If that doesn't work email help@emplifyapp.com and we'll take a closer look.\n\n\nI can't see groups that I'm sure I should have access to\n\n\nOnly administrators can add you to groups.\n\n\nI've got an idea for a new Group\n\n\nPlease contact your Emplify co-ordinator.", 
+            "title": "Troubleshooting"
+        }, 
+        {
+            "location": "/troubleshooting/#troubleshooting", 
+            "text": "", 
+            "title": "Troubleshooting"
+        }, 
+        {
+            "location": "/troubleshooting/#help-i-cant-register", 
+            "text": "If you're having trouble registering, please send an email to help@emplifyapp.com with your details and we'll try and get everything set up on your behalf.", 
+            "title": "Help I can't register"
+        }, 
+        {
+            "location": "/troubleshooting/#help-i-cant-login", 
+            "text": "If you're having trouble logging in, try resetting your password. If that doesn't work email help@emplifyapp.com and we'll take a closer look.", 
+            "title": "Help I can't login"
+        }, 
+        {
+            "location": "/troubleshooting/#i-cant-see-groups-that-im-sure-i-should-have-access-to", 
+            "text": "Only administrators can add you to groups.", 
+            "title": "I can't see groups that I'm sure I should have access to"
+        }, 
+        {
+            "location": "/troubleshooting/#ive-got-an-idea-for-a-new-group", 
+            "text": "Please contact your Emplify co-ordinator.", 
+            "title": "I've got an idea for a new Group"
+        }, 
+        {
+            "location": "/admin/", 
+            "text": "Getting Started\n\n\nAdministrators can login to Emplify at \ngo.emplifyapp.com/admin/\n. Once you're logged in you can carry out any of the following:\n\n\n\n\nCreate, edit, delete News post\n\n\nView and delete users Community posts\n\n\nView, edit and delete categories (used in News)\n\n\nPost questions for feedback and view Results\n\n\nCreate groups\n\n\nCreate users and assigning groups", 
+            "title": "Getting started"
+        }, 
+        {
+            "location": "/admin/#getting-started", 
+            "text": "Administrators can login to Emplify at  go.emplifyapp.com/admin/ . Once you're logged in you can carry out any of the following:   Create, edit, delete News post  View and delete users Community posts  View, edit and delete categories (used in News)  Post questions for feedback and view Results  Create groups  Create users and assigning groups", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/news-posting/", 
+            "text": "Posting News\n\n\nTo post a news article:\n\n\n\n\nClick Posts\n\n\nClick Create\n\n\nInput the article details\n\n\n\n\nThe final two fields of the article allow you to post-date an article. This is helpful if you'd like your post to coincide with an event or news release.\n\n\n\n\nRemember when you post a news article users will be sent a notification so please make sure you're entirely happy with your article before publishing.", 
+            "title": "Posting News"
+        }, 
+        {
+            "location": "/news-posting/#posting-news", 
+            "text": "To post a news article:   Click Posts  Click Create  Input the article details   The final two fields of the article allow you to post-date an article. This is helpful if you'd like your post to coincide with an event or news release.   Remember when you post a news article users will be sent a notification so please make sure you're entirely happy with your article before publishing.", 
+            "title": "Posting News"
+        }, 
+        {
+            "location": "/feedback-asking/", 
+            "text": "Asking Feedback\n\n\nTo create a new question:\n\n\n\n\nClick Questions\n\n\nInput the question and any supporting text\n\n\nInput a publish date. It's important this is in the future to give you time to add options\n\n\nClick Save\n\n\nSelect your Question then add your choices. The order you add choices is the order they will appear in the application so it's worth planning these before they are added.\n\n\n\n\n\n\nRembember users receive notifications so you should plan your questions and answers carefully", 
+            "title": "Asking Questions"
+        }, 
+        {
+            "location": "/feedback-asking/#asking-feedback", 
+            "text": "To create a new question:   Click Questions  Input the question and any supporting text  Input a publish date. It's important this is in the future to give you time to add options  Click Save  Select your Question then add your choices. The order you add choices is the order they will appear in the application so it's worth planning these before they are added.    Rembember users receive notifications so you should plan your questions and answers carefully", 
+            "title": "Asking Feedback"
+        }, 
+        {
+            "location": "/feedback-asking/", 
+            "text": "Asking Feedback\n\n\nTo create a new question:\n\n\n\n\nClick Questions\n\n\nInput the question and any supporting text\n\n\nInput a publish date. It's important this is in the future to give you time to add options\n\n\nClick Save\n\n\nSelect your Question then add your choices. The order you add choices is the order they will appear in the application so it's worth planning these before they are added.\n\n\n\n\n\n\nRembember users receive notifications so you should plan your questions and answers carefully", 
+            "title": "Managing Users"
+        }, 
+        {
+            "location": "/feedback-asking/#asking-feedback", 
+            "text": "To create a new question:   Click Questions  Input the question and any supporting text  Input a publish date. It's important this is in the future to give you time to add options  Click Save  Select your Question then add your choices. The order you add choices is the order they will appear in the application so it's worth planning these before they are added.    Rembember users receive notifications so you should plan your questions and answers carefully", 
+            "title": "Asking Feedback"
+        }
+    ]
+}
